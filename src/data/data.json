@@ -1,0 +1,275 @@
+[
+    {
+        "id": "AB123",
+        "description": "Wedding Party",
+        "senderAddress":{
+            "street": "Wellington Road",
+            "city": "London",
+            "postCode": "DE23 4ED",
+            "country": "United Kingdom"
+        },
+        "client": 
+            {
+                "name": "Jerry Adeleye",
+                "email": "Jerry@gmail.com",
+                "address":{
+                    "street": "Ajayi Crowther",
+                    "city": "Abuja",
+                    "postCode": "DE23 4ED",
+                    "country": "Nigeria"
+                } 
+            },
+        
+        "invoice":
+            {
+                "createdAt": "2023-08-30",
+                "dueAt": "2023-08-31",
+                "items":
+                    {
+                        "name": "Ankara Fabric",
+                        "quantity": 2,
+                        "price": 3000.00,
+                        "total": 6000.00
+                    },
+                "payment":{ 
+                    "paymentTerms":30,
+                    "paymentMethod":"Card"
+
+                }
+            }
+        
+    },
+    {
+        "id": "DE345",
+        "description": "Wedding Party",
+        "senderAddress":{
+            "street": "Wellington Road",
+            "city": "London",
+            "postCode": "DE23 4ED",
+            "country": "United Kingdom"
+        },
+        "client":
+            {
+                "name": "Jerry Adeleye",
+                "email": "Jerry@gmail.com",
+                "address":{
+                    "street": "Ajayi Crowther",
+                    "city": "Abuja",
+                    "postCode": "DE23 4ED",
+                    "country": "Nigeria"
+                } 
+            },
+        "invoice":
+            {
+                "createdAt": "2023-08-30",
+                "dueAt": "2023-08-31",
+                "items":
+                    {
+                        "name": "Ankara Fabric",
+                        "quantity": 2,
+                        "price": 3000.00,
+                        "total": 6000.00
+                    },
+                "payment":{ 
+                    "paymentTerms":30,
+                    "paymentMethod":"Card"
+
+                }
+            }    
+    },
+    {
+        "id": "XE932",
+        "description": "Wedding Party",
+        "senderAddress":{
+            "street": "Wellington Road",
+            "city": "London",
+            "postCode": "DE23 4ED",
+            "country": "United Kingdom"
+        },
+        "client":
+            {
+                "name": "Jerry Adeleye",
+                "email": "Jerry@gmail.com",
+                "address":{
+                    "street": "Ajayi Crowther",
+                    "city": "Abuja",
+                    "postCode": "DE23 4ED",
+                    "country": "Nigeria"
+                } 
+            },
+        "invoice":
+            {
+                "createdAt": "2023-08-30",
+                "dueAt": "2023-08-31",
+                "items":
+                    {
+                        "name": "Ankara Fabric",
+                        "quantity": 2,
+                        "price": 3000.00,
+                        "total": 6000.00
+                    },
+                "payment":{ 
+                    "paymentTerms":30,
+                    "paymentMethod":"Card"
+
+                }
+            }
+        },
+    {
+        "id": "LK083",
+        "description": "Wedding Party",
+        "senderAddress":{
+            "street": "Wellington Road",
+            "city": "London",
+            "postCode": "DE23 4ED",
+            "country": "United Kingdom"
+        },
+        "client":
+            {
+                "name": "Jerry Adeleye",
+                "email": "Jerry@gmail.com",
+                "address":{
+                    "street": "Ajayi Crowther",
+                    "city": "Abuja",
+                    "postCode": "DE23 4ED",
+                    "country": "Nigeria"
+                } 
+            },
+        "invoice":
+            {
+                "createdAt": "2023-08-30",
+                "dueAt": "2023-08-31",
+                "items":
+                    {
+                        "name": "Ankara Fabric",
+                        "quantity": 2,
+                        "price": 3000.00,
+                        "total": 6000.00
+                    },
+                "payment":{ 
+                    "paymentTerms":30,
+                    "paymentMethod":"Card"
+
+                }
+            }
+        
+        },
+    {
+        "id": "XC586",
+        "description": "Wedding Party",
+        "senderAddress":{
+            "street": "Wellington Road",
+            "city": "London",
+            "postCode": "DE23 4ED",
+            "country": "United Kingdom"
+        },
+        "client":
+            {
+                "name": "Jerry Adeleye",
+                "email": "Jerry@gmail.com",
+                "address":{
+                    "street": "Ajayi Crowther",
+                    "city": "Abuja",
+                    "postCode": "DE23 4ED",
+                    "country": "Nigeria"
+                } 
+            },
+        "invoice":
+            {
+                "createdAt": "2023-08-30",
+                "dueAt": "2023-08-31",
+                "items":
+                    {
+                        "name": "Ankara Fabric",
+                        "quantity": 2,
+                        "price": 3000.00,
+                        "total": 6000.00
+                    },
+                "payment":{ 
+                    "paymentTerms":30,
+                    "paymentMethod":"Card"
+
+                }
+            }
+    },
+    {
+        "id": "AB123",
+        "description": "Wedding Party",
+        "senderAddress":{
+            "street": "Wellington Road",
+            "city": "London",
+            "postCode": "DE23 4ED",
+            "country": "United Kingdom"
+        },
+        "client": 
+            {
+                "name": "Jerry Adeleye",
+                "email": "Jerry@gmail.com",
+                "address":{
+                    "street": "Ajayi Crowther",
+                    "city": "Abuja",
+                    "postCode": "DE23 4ED",
+                    "country": "Nigeria"
+                } 
+            },
+        
+        "invoice":
+            {
+                "createdAt": "2023-08-30",
+                "dueAt": "2023-08-31",
+                "items":
+                    {
+                        "name": "Ankara Fabric",
+                        "quantity": 2,
+                        "price": 3000.00,
+                        "total": 6000.00
+                    },
+                "payment":{ 
+                    "paymentTerms":30,
+                    "paymentMethod":"Card"
+
+                }
+            }
+        
+    },
+    {
+        "id": "AB123",
+        "description": "Wedding Party",
+        "senderAddress":{
+            "street": "Wellington Road",
+            "city": "London",
+            "postCode": "DE23 4ED",
+            "country": "United Kingdom"
+        },
+        "client": 
+            {
+                "name": "Jerry Adeleye",
+                "email": "Jerry@gmail.com",
+                "address":{
+                    "street": "Ajayi Crowther",
+                    "city": "Abuja",
+                    "postCode": "DE23 4ED",
+                    "country": "Nigeria"
+                } 
+            },
+        
+        "invoice":
+            {
+                "createdAt": "2023-08-30",
+                "dueAt": "2023-08-31",
+                "items":
+                    {
+                        "name": "Ankara Fabric",
+                        "quantity": 2,
+                        "price": 3000.00,
+                        "total": 6000.00
+                    },
+                "payment":{ 
+                    "paymentTerms":30,
+                    "paymentMethod":"Card"
+
+                }
+            }
+        
+    }
+]
